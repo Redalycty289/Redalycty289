@@ -12,10 +12,9 @@ Building impact-driven software and growing through real-world projects.
 💬 Ask me about: Software development, STEM, and technical presentations <br>
 ⚡ Fun fact: Proud nerd — sci-fi, fantasy, comics, videogames, anime, and rock are my fuel<br>
 
-<p align="center">
-  <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" width="900" />
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" width = 100% alt = "Snake Game"/>
 </p>
-
 
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWc0aWxydGpnMHM4bjh3bWtmd2RpdXVjdHF4bnNpZTRueGpjaTBxYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"><b> Skills </b></h1>
 
@@ -91,11 +90,6 @@ Building impact-driven software and growing through real-world projects.
 ![](https://nirzak-streak-stats.vercel.app/?user=Redalycty289&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redalycty289&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div>
-<a href="https://github.com/Redalycty289">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Redalycty289&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Redalycty289&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
